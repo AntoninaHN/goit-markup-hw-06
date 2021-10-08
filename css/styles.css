@@ -617,6 +617,10 @@ footer {
   align-items: center;
   transition: background-color 250ms var(--timing-function);
 }
+.submit-text-btn:hover,
+.submit-text-btn:focus {
+  background-color: #188ce8;
+}
 .send-icon {
   width: 24px;
   height: 24px;
