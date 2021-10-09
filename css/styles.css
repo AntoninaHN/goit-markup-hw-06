@@ -608,10 +608,9 @@ footer {
   letter-spacing: 0.06em;
   color: #ffffff;
   border: none;
-}
-.submit-text-btn {
   padding: 10px 29px 10px 24px;
 }
+
 .btn-footer {
   display: inline-block;
   align-items: center;
@@ -1008,12 +1007,9 @@ footer {
   line-height: 1.87;
   color: var(--background-color);
   transition: background-color 250ms var(--timing-function);
-}
-.modal-form-btn {
   padding: 10px 55px 10px 56px;
   margin: auto;
   margin-top: 30px;
-  background: #188ce8;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
 }
