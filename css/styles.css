@@ -571,7 +571,7 @@ footer {
 .footer-subscribe {
   display: flex;
   flex-direction: row;
-  flex-basis: calc((100% - 30px) / 2);
+  /* flex-basis: calc((100% - 30px) / 2); */
 }
 .subscribe-text {
   display: flex;
@@ -603,6 +603,7 @@ text {
   line-height: 1.25;
   color: rgba(255, 255, 255, 0.6);
   vertical-align: middle;
+  margin-right: 12px;
 }
 .submit-text-btn {
   display: flex;
